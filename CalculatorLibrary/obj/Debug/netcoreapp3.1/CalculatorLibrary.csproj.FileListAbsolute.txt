@@ -1,0 +1,9 @@
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.deps.json
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.csproj.AssemblyReference.cache
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfo.cs
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.dll
+D:\TU\lV Semeter\Microinvest\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.pdb
